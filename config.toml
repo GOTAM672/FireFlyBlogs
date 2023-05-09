@@ -1,0 +1,4 @@
+baseURL = 'http://fireflyblogs.org/'
+languageCode = 'en-us'
+title = 'FireFly Blogs'
+theme = 'DoIt'

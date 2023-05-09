@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - FireFly Blogs</title>
+        <link>http://fireflyblogs.org/tags/</link>
+        <description>Tags - Tag - FireFly Blogs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://fireflyblogs.org/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
