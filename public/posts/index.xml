@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>FireFly Blogs</title>
-        <link>http://fireflyblogs.org/</link>
-        <description>FireFly Blogs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 May 2023 02:55:58 &#43;0530</lastBuildDate>
-            <atom:link href="http://fireflyblogs.org/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>All Posts - FireFly Blogs</title>
+        <link>http://fireflyblogs.org/posts/</link>
+        <description>All Posts | FireFly Blogs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 May 2023 02:55:58 &#43;0530</lastBuildDate><atom:link href="http://fireflyblogs.org/posts/" rel="self" type="application/rss+xml" /><item>
     <title>My First Post</title>
     <link>http://fireflyblogs.org/posts/my-first-post/</link>
     <pubDate>Wed, 10 May 2023 02:55:58 &#43;0530</pubDate><author>

@@ -2,6 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://fireflyblogs.org/</loc><lastmod>2023-05-10T02:55:58&#43;05:30</lastmod></url><url>
+            <loc>http://fireflyblogs.org/posts/my-first-post/</loc><lastmod>2023-05-10T02:55:58&#43;05:30</lastmod></url><url>
+            <loc>http://fireflyblogs.org/posts/</loc><lastmod>2023-05-10T02:55:58&#43;05:30</lastmod></url><url>
             <loc>http://fireflyblogs.org/categories/</loc></url><url>
-            <loc>http://fireflyblogs.org/</loc></url><url>
             <loc>http://fireflyblogs.org/tags/</loc></url></urlset>
