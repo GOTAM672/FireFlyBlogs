@@ -1,4 +1,4 @@
-baseURL = 'http://fireflyblogs.org/'
+baseURL = 'https://gotam672.github.io/FireFlyBlogs/'
 languageCode = 'en-us'
 theme = 'DoIt'
 title = 'FireFly Blogs'
@@ -156,6 +156,7 @@ defaultContentLanguage = 'en'
       # Place your avatar file under static or assets directory
       # The filepath is relative to the static or assets directory
       avatarURL = "/images/avatar.webp"
+      #/images/avatar.webp
       #  title shown in home page (HTML format is supported)
       title = "Gotam Gorabh"
       # subtitle shown in home page
@@ -279,7 +280,7 @@ defaultContentLanguage = 'en'
     linkToReport = false
     # "https://github.com/user/repo/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/user/repo/blob/main/{path}|"
     #  whether to show the full text content in RSS
-    rssFullText = false
+    rssFullText = true
     #  whether to enable series navigation
     seriesNavigation = true
     #  outdated article reminder config
