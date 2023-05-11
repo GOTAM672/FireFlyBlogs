@@ -28,7 +28,7 @@ linkToMarkdown: true
 linkToSource: false
 linkToEdit: false
 linkToReport: false
-rssFullText: false
+rssFullText: true
 license: ''
 
 toc:
