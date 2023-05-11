@@ -90,7 +90,7 @@ defaultContentLanguage = 'en'
       # URL of the LOGO
       logo = ""
       # title name
-      name = "FireFly Blogs"
+      name = "Firefly Blogs"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -159,7 +159,7 @@ defaultContentLanguage = 'en'
       #  title shown in home page (HTML format is supported)
       title = "Gotam Gorabh"
       # subtitle shown in home page
-      subtitle = "This is FireFly Blogs site"
+      subtitle = "Welcome to Firefly Blogs!"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
