@@ -1,4 +1,4 @@
-baseURL = 'https://gotam672.github.io/FireFlyBlogs/'
+baseURL = 'https://gotam672.github.io/FireFlyBlogs/'     
 languageCode = 'en-us'
 theme = 'DoIt'
 title = 'FireFly Blogs'

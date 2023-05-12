@@ -13,6 +13,8 @@ tags: []
 categories: []
 series: []
 series_weight: 1
+
+
 seriesNavigation: true
 featuredImage: "gnome_gsoc.png"
 featuredImagePreview: "card.png"
