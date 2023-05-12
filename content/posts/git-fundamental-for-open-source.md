@@ -2,7 +2,7 @@
 title: "Git Fundamentals for Open Source"
 subtitle: "A Practical Guide for New Contributors"
 date: 2023-05-13T02:01:42+05:30
-draft: true
+draft: false
 
 
 authors: []
@@ -81,7 +81,4 @@ related:
 
 ---
 
-#### A
-##### W 
-##### G
-#### B
+
