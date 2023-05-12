@@ -129,8 +129,8 @@ defaultContentLanguage = 'en'
     rss = 10
     #  recently updated posts settings
     [params.section.recentlyUpdated]
-      enable = false
-      rss = false
+      enable = true
+      rss = true
       days = 30
       maxCount = 10
 
