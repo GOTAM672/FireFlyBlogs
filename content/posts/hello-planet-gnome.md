@@ -16,8 +16,8 @@ series_weight: 1
 
 
 seriesNavigation: true
-featuredImage: "card.png"
-featuredImagePreview: "gnome_gsoc.png"
+featuredImage: "gnome_gsoc.png"
+featuredImagePreview: "card.png"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
