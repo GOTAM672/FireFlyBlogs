@@ -79,13 +79,13 @@ related:
   count: 5
 ---
 
-#### About GNOME Foundation
+### About GNOME Foundation
 
 The GNOME Foundation, creators of the GNOME Project, GTK, Flatpak, and other open source technologies, is a non-profit organization that works to create a computing platform for use by the general public that is composed entirely of free software.
 
-#### Before Start Contributing
+### Before Start Contributing
 
-Before getting into the open source world you must learn Git, GitHub, and atleast basics of one programming language. 
+Before getting into the open source world you must learn Git, GitHub or GitLab, and atleast basics of one programming language. 
 
 Here are brief information about Git and GitHub:
 
@@ -93,3 +93,5 @@ Here are brief information about Git and GitHub:
 - <b>GitHub</b> is a web-based platform. This means that you can access your Git repositories from anywhere with an internet connection. GitHub also provides a variety of tools and features that make it easy to collaborate on projects.
 
 If you wanted to contribute to the open-source projects, I highly recommend learning about Git and GitHub. They are essential tools for working with code.
+
+### Okay, let's start
