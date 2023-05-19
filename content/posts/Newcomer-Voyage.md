@@ -95,3 +95,26 @@ Here are brief information about Git and GitHub:
 If you wanted to contribute to the open-source projects, I highly recommend learning about Git and GitHub. They are essential tools for working with code.
 
 ### Okay, let's start
+
+Here are steps to deep dive into open-source contribution into GNOME projects.
+
+##### Step1: Choose Tech Stack
+
+Since the core GNOME libraries are written in C this means that C is the “default” platform language, but it is possible to use multiple languages to write applications for GNOME.
+Currently <b>C++, JavaScript, Python, Rust, and Vala</b> languages are used apart from <b>C</b> to write GNOME applications. So choose one language from the list and get some basic knowledge about <b>GTK</b>.
+
+Ok, let me tell about what is GTK...
+
+<b>GTK</b> is used to create graphical user interfaces (GUIs) for desktop environments, applications, and window managers and it is heart of the GNOME application and software development kit. 
+
+Here is the table that contains documentations of different languages and it's bindings with GTK.
+
+| Language | Project | Documentation |
+| :-------------: | :-------------: | :-------------: |
+| C++  | Content Cell  |
+| JavScript  | Content Cell  |
+| Python  | Content Cell  |
+| Rust  | Content Cell  |
+| Vala  | Content Cell  |
+| C  | Content Cell  |
+
