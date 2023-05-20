@@ -83,6 +83,8 @@ related:
 
 The GNOME Foundation, creators of the GNOME Project, GTK, Flatpak, and other open source technologies, is a non-profit organization that works to create a computing platform for use by the general public that is composed entirely of free software.
 
+<b>NOTE: </b>
+
 ### Before Start Contributing
 
 Before getting into the open source world you must learn Git, GitHub or GitLab, and atleast basics of one programming language. 
@@ -98,23 +100,35 @@ If you wanted to contribute to the open-source projects, I highly recommend lear
 
 Here are steps to deep dive into open-source contribution into GNOME projects.
 
-##### Step1: Choose Tech Stack
+##### Step 1: Choose a Tech Stack
 
 Since the core GNOME libraries are written in C this means that C is the “default” platform language, but it is possible to use multiple languages to write applications for GNOME.
-Currently <b>C++, JavaScript, Python, Rust, and Vala</b> languages are used apart from <b>C</b> to write GNOME applications. So choose one language from the list and get some basic knowledge about <b>GTK</b>.
+Currently <b>C++, JavaScript, Python, Rust, and Vala</b> languages are used apart from <b>C</b> to write GNOME applications. 
+So choose one language from the list and get some basic knowledge about [GTK](https://docs.gtk.org/gtk4/index.html), [GObject](https://docs.gtk.org/gobject/), and [Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/main/index.html).
 
-Ok, let me tell about what is GTK...
+In summary, GTK is a toolkit for building GUIs, GObject is an object-oriented system used by GTK and other GNOME libraries, and Adwaita is the default GTK theme providing a consistent visual style within the GNOME desktop environment. 
 
-<b>GTK</b> is used to create graphical user interfaces (GUIs) for desktop environments, applications, and window managers and it is heart of the GNOME application and software development kit. 
+Here is the table that contains documentations of different languages and it's bindings with GTK.([source](https://developer.gnome.org/documentation/introduction/languages.html))
 
-Here is the table that contains documentations of different languages and it's bindings with GTK.
+| Language | Documentation |
+| :-------------: | :-------------: |
+| C++  | [gtkmm](https://gtkmm.org/en/index.html)  |
+| JavScript  | [GJS](https://gjs.guide/), [API references](https://gjs-docs.gnome.org/)  |
+| Python  | [PyGObject](https://pygobject.readthedocs.io/en/latest/), [API references](http://lazka.github.io/pgi-docs/)  |
+| Rust  | [gtk-rs](https://gtk-rs.org/), [Book](https://gtk-rs.org/gtk4-rs/stable/latest/book/)  |
+| Vala  | [Vala](https://vala.dev/), [API references](https://valadoc.org/)  |
 
-| Language | Project | Documentation |
-| :-------------: | :-------------: | :-------------: |
-| C++  | Content Cell  |
-| JavScript  | Content Cell  |
-| Python  | Content Cell  |
-| Rust  | Content Cell  |
-| Vala  | Content Cell  |
-| C  | Content Cell  |
 
+##### Step 2: Choose a Project
+
+GNOME has tons of projects which are available at GitLab.
+
+##### Step 3: Build the Project
+
+##### Step 4: Getting in Touch with GNOME Community
+
+### Additional Resources
+
+### GSoC and Outreachy
+
+### GNOME Events
