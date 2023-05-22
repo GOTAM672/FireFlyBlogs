@@ -119,6 +119,9 @@ Here is the table that contains documentations of different languages and it's b
 | Vala  | [Vala](https://vala.dev/), [API references](https://valadoc.org/)  |
 
 
+
+
+
 ##### Step 2: Choose a Project
 
 GNOME has tons of projects which are available at GitLab.
@@ -126,6 +129,12 @@ GNOME has tons of projects which are available at GitLab.
 ##### Step 3: Build the Project
 
 ##### Step 4: Getting in Touch with GNOME Community
+
+##### Step 5: Solve an Issue
+
+##### Step 6: Open a Merge Request
+
+##### Step 7: Read Neccessary Documents
 
 ### Additional Resources
 
