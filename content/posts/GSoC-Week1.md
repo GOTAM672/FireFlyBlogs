@@ -1,5 +1,5 @@
 ---
-title: "GSoC 2023 [Week 1 Report]: Empty System Panel Implementation"
+title: "GSoC 2023 [Week 1 Report]: Create a New “System” panel in GNOME Settings"
 date: 2023-05-26T20:44:02+05:30
 draft: true
 
@@ -89,9 +89,9 @@ related:
 #### Introduction
 
 This summer I'm working on project titled <b>Create a New “System” panel in GNOME Settings</b>, which aims to create a New System panel.
-In this project I will address this [Issue(#2241)](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/2241) and will follow this [mockup](https://gitlab.gnome.org/Teams/Design/settings-mockups/-/blob/master/system/system-panel.png).
+This blog summarizes my progress during the bonding period and the first week of the Google Summer Of Code 2023.
 
-For more details here is my [Proposal](https://github.com/GOTAM672/GSoC-Gnome-Proposal).
+In this project I will address this [Issue(#2241)](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/2241) and will implement this [mockup](https://gitlab.gnome.org/Teams/Design/settings-mockups/-/blob/master/system/system-panel.png). For more details here is my [Proposal](https://github.com/GOTAM672/GSoC-Gnome-Proposal).
 
 #### Week 1 Goals:
 
@@ -101,11 +101,12 @@ For more details here is my [Proposal](https://github.com/GOTAM672/GSoC-Gnome-Pr
 #### Progress Made:
 
 - Completed the setup of the development environment and configured the project structure.
-- Took inspiration from other panels to implement a new system panel. 
-- successfully implemented a new system panel.
+- Gathered all the necessary documents that will help in this project such as <b>GObject, GTK</b> etc.
+- Took inspiration from other panels(specially <b>Accessibility panel</b>) to implement a new system panel. 
+- Successfully implemented a new empty system panel.
 
 #### Deliverables:
-
+Link to the merge request: [!1800](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1800). I will push all the c
 
 #### Issues and Challenges:
 
