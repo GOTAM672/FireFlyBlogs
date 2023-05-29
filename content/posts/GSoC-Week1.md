@@ -1,7 +1,7 @@
 ---
 title: "GSoC 2023 [Week 1 Report]: Create a New “System” panel in GNOME Settings"
 date: 2023-05-26T20:44:02+05:30
-draft: true
+draft: false
 
 authors: []
 description: ""
@@ -105,17 +105,38 @@ In this project I will address this [Issue(#2241)](https://gitlab.gnome.org/GNOM
 - Took inspiration from other panels(specially <b>Accessibility panel</b>) to implement a new system panel. 
 - Successfully implemented a new empty system panel.
 
-#### Deliverables:
-Link to the merge request: [!1800](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1800). I will push all the c
+<b><i>Current status of system panel:</i></b>
 
-#### Issues and Challenges:
+![](week1.png)
+
+
+#### Deliverables:
+
+To create a new system panel, I created a new folder name `system` inside `gnome-control-center/panels` folder.  
+Below is the strucure of files and folders inside `system` folder  
+
+![](structure.png)
+
+- `gnome-system-panel.desktop.in` is a new dektop file for <b>system</b> panel which need to be install into the system path to load the panel.
+- `org.gnome.Settings-gear-symbolic.svg` file provide gear symbolic icon to new system panel.
+
+Also modified `gnome-control-center/panels/meson.build` , `gnome-control-center/shell/cc-panel-list.c` , and `gnome-control-center/shell/cc-panel-loader.c` files.  
+
+For more detail, Please see my Merge Request [https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1800](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1800).
+
+
+<!--#### Issues and Challenges:-->
 
 
 #### Plan for the Next Week:
 
-#### Questions and Discussion Points:
+In the next week I will move `Region & Language Panel` as a page into new system panel. 
+
+This week is not over yet, so stay tuned for more updates.
+
+<!--#### Questions and Discussion Points:
 
 #### Conclusion:
 
 
-#### Additional Resources:
+#### Additional Resources:-->
