@@ -82,8 +82,8 @@ related:
 ---
 
 <b>Project Title : Create a New “System” panel in GNOME Settings</b><br>
-<b>Mentor : Felipe Borges</b><br>
-<b>Contributor : Gotam Gorabh</b><br>
+<b>Mentor : [Felipe Borges](https://gitlab.gnome.org/felipeborges)</b><br>
+<b>Contributor : [Gotam Gorabh](https://gitlab.gnome.org/gautham_x)</b><br>
 
 
 #### Introduction
@@ -121,7 +121,7 @@ Below is the structure of the files and folders inside `system` folder
 
 Also modified `gnome-control-center/panels/meson.build` , `gnome-control-center/shell/cc-panel-list.c` , and `gnome-control-center/shell/cc-panel-loader.c` files.  
 
-#### Related Merge Rqequest:
+#### Related Merge Request:
 
 - `Create initial base structure for the new "System" panel` [!1800](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1800)
 -  `Add title to system panel` [!1815](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1815)
@@ -132,7 +132,7 @@ Also modified `gnome-control-center/panels/meson.build` , `gnome-control-center/
 
 #### Plan for the Next Week:
 
-In the next week, I will move `Remote Desktop Panel` as a page into the new system panel. 
+In the next week, I will add `Remote Desktop Panel` as a page into the new system panel. 
 
 This week is not over yet, so stay tuned for more updates.
 
