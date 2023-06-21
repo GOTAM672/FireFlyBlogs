@@ -9,7 +9,7 @@ description: ""
 license: ""
 images: []
 
-tags: []
+tags: [GSoC]
 categories: []
 series: []
 series_weight: 1
