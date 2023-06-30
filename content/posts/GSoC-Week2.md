@@ -130,7 +130,7 @@ Also modified `cc-system-panel.c` , `cc-system-panel.ui` , `system.gresource.xml
 
 #### Related Merge Request:
 
-- `system: Add 'Remote Desktop' page into the system panel` [!1818](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1818)
+- `system: Add 'Remote Desktop' page into the system panel` [!1842](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1842)
 
 
 <!--#### Issues and Challenges:-->
